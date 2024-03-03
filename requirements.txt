@@ -1,0 +1,15 @@
+import speech_recognition 
+import pywhatkit
+import wikipedia
+import webbrowser
+import requests
+from bs4 import BeautifulSoup
+import os
+import pyautogui
+import keyboard
+import random
+from plyer import notification
+import speedtest
+import speedtest_cli
+import subprocess
+from ChitChat import chat
